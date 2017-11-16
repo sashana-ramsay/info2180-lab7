@@ -1,0 +1,73 @@
+body{
+    background-image: url('https://www.sketchappsources.com/resources/th-source-images-plus1/coutry-flags-by-joimau-1.png');
+}
+
+.display{
+	margin-left: 200px;
+	margin-right: 200px;
+    background-color: #f3eba5;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+#heading{
+	background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLBQxNKRxL8azeHGVoebuOlIiko8LGZ0shgQ9T3wlXRfr6Qg-5rw');
+	height: 100px;
+    width: 100%;
+   
+}
+h1{
+    padding-left: 20px;
+    color:white;
+    text-align: left;
+    font-family: Cooper Black;
+    font-weight: 900; 
+}
+h3{
+    padding-left: 20px;
+    padding-top:40px;
+    color:#0066ff;
+    text-align: left;
+    font-family: Cooper Black;
+    font-weight: 900; 
+    font-style: italic;
+}
+
+label{
+    font-family: Cooper Black;
+    font-weight: 900;
+}
+
+#result{
+    padding-left: 20px;
+    margin-left: 20px;
+	margin-right: 20px;
+    background-color: #8db14e;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    box-shadow:20px 20px 50px 20px black; 
+}
+
+#controls{
+    padding-left: 20px;
+    margin-top:50px;
+    
+}
+button{
+	background-color: white;
+	border-radius: 4px;
+	color: black;
+	padding:5px 5px;
+	font-weight: bold;
+	border: 2px solid #121254;
+	margin-top:20px;
+}
+#below{
+    margin-left: 120px;
+}
+
+#country{
+    border-radius: 6px;
+}
